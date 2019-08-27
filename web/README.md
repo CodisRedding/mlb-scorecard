@@ -75,3 +75,4 @@ References:
 * https://www.wikihow.com/images/thumb/9/90/Mark-a-Baseball-Scorecard-Step-3Bullet2.jpg/aid312967-v4-728px-Mark-a-Baseball-Scorecard-Step-3Bullet2.jpg 
 * https://github.com/toddrob99/MLB-StatsAPI/blob/fc60d563d66179f0ac75710ad5ae97a6fc43e824/statsapi/endpoints.py#L240 
 * https://github.com/baseballhackday/data-and-resources/wiki/Resources-and-ideas
+* https://pypi.org/project/MLB-StatsAPI/ 
