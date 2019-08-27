@@ -66,3 +66,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+References:
+
+* https://toddrob99.github.io/MLB-StatsAPI/#statsapi.boxscore
+* https://i1.wp.com/twinstrivia.com/wp-content/uploads/2019/01/Scorecard.jpg?ssl=1
+* https://www.wikihow.com/images/thumb/9/90/Mark-a-Baseball-Scorecard-Step-3Bullet2.jpg/aid312967-v4-728px-Mark-a-Baseball-Scorecard-Step-3Bullet2.jpg 
+* https://github.com/toddrob99/MLB-StatsAPI/blob/fc60d563d66179f0ac75710ad5ae97a6fc43e824/statsapi/endpoints.py#L240 
+* https://github.com/baseballhackday/data-and-resources/wiki/Resources-and-ideas
