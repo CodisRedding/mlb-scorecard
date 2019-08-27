@@ -1,0 +1,19 @@
+{
+  "name": "mlb",
+  "version": "1.0.0",
+  "description": "Generates score live score cards",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.2.2",
+    "eslint-config-google": "^0.13.0",
+    "eslint-plugin-react": "^7.14.3"
+  }
+}
